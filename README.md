@@ -20,7 +20,7 @@ My work includes:
 - Working directly with developers and new team members to guide implementation
 - Improving existing product experiences based on user behavior and product feedback
 
-Working in a startup environment has given me experience beyond traditional design — I contribute to product decisions, implementation, testing, and iteration from concept through release.
+Working in a startup environment has given me experience beyond traditional design. I contribute to product decisions, implementation, testing, and iteration from concept through release.
 
 ## 🛠 Tech & Design
 
@@ -33,13 +33,13 @@ Working in a startup environment has given me experience beyond traditional desi
 
 I founded **NEP2UNE**, an e-commerce clothing brand that has generated **$100K+ in sales** and reached customers across **17 countries**.
 
-Building my own brand taught me how to think about products from both the **user and business perspective** — balancing design, conversion, branding, customer behavior, and growth.
+Building my own brand taught me how to think about products from both the **user and business perspective**, balancing design, conversion, branding, customer behavior, and growth.
 
 ## 📍 Currently
 
-- 🎓 Graduating **December 2026**
+- 🎓 Graduating **December 2026** from **SDSU**
 - 🎨 Head of Mobile UI Design at PXI Labs
 - 💻 Designing and building startup products from Figma to production
 - 🔎 Interested in **Product Design, UI/UX, Frontend Development, and Design Engineering**
 
-### Let's build something people actually enjoy using.
+### I build at the intersection of design and development.
