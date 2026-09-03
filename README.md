@@ -9,14 +9,15 @@ Outside of development, I founded and built NEP2UNE, an e-commerce clothing bran
 Currently, I'm working with startups where I contribute across UI/UX design, frontend implementation, product testing, and product strategy.
 
 What I work with
-Figma & Prototyping
-TypeScript / TSX
-HTML & CSS
-Shopify
-Responsive & Mobile-First Design
-UI/UX & Product Design
-Design Systems
-Frontend Development
-E-commerce & Conversion Optimization
+
+-Figma & Prototyping
+-TypeScript / TSX
+-HTML & CSS
+-Shopify
+-Responsive & Mobile-First Design
+-UI/UX & Product Design
+-Design Systems
+-Frontend Development
+-E-commerce & Conversion Optimization
 
 I'm graduating in December 2026 and looking for opportunities in Product Design, UI/UX, Frontend Development, or Design Engineering where I can combine design, technology, and product thinking to build experiences people actually enjoy using.
