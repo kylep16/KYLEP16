@@ -6,7 +6,7 @@ I design and build digital products from **Figma to production**, combining prod
 
 ## 💼 Experience
 
-### PXI Labs — Head of Mobile UI Design
+### PXI Labs - Head of Mobile UI Design
 
 At **PXI Labs**, I lead the mobile UI design direction for a growing startup product while also contributing to frontend development and product strategy.
 
