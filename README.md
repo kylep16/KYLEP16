@@ -17,7 +17,7 @@ Currently, I work with startups across **UI/UX design, frontend implementation, 
 
 I founded **NEP2UNE**, an e-commerce clothing brand that has generated **$100K+ in sales** and reached customers across **17 countries**.
 
-Building my own brand taught me to think beyond visuals and consider the entire product experience — from user behavior and conversion to branding and business strategy.
+Building my own brand taught me to think beyond visuals and consider the entire product experience, from user behavior and conversion to branding and business strategy.
 
 ## 📍 Currently
 
