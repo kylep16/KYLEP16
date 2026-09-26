@@ -1,10 +1,10 @@
-# Hi, I'm Kyle 👋
+# Hi, I'm Kyle 
 
 I'm a **Computer Science senior at San Diego State University** focused on **UI/UX, Product Design, and Frontend Development**.
 
 I design and build digital products from **Figma to production**, combining product thinking, visual design, and frontend development.
 
-## 💼 Experience
+## Experience
 
 ### PXI Labs - Head of Mobile UI Design
 
@@ -22,20 +22,20 @@ My work includes:
 
 Working in a startup environment has given me experience beyond traditional design. I contribute to product decisions, implementation, testing, and iteration from concept through release.
 
-## 🛠 Tech & Design
+## Tech & Design
 
 - **Design:** Figma, Prototyping, Design Systems, Responsive & Mobile-First Design
 - **Frontend:** TypeScript, TSX, HTML, CSS
 - **E-commerce:** Shopify, Conversion Optimization
 - **Product:** UI/UX, QA, A/B Testing, Product Strategy
 
-## 🚀 Entrepreneurship
+## Entrepreneurship
 
 I founded **NEP2UNE**, an e-commerce clothing brand that has generated **$100K+ in sales** and reached customers across **17 countries**.
 
 Building my own brand taught me how to think about products from both the **user and business perspective**, balancing design, conversion, branding, customer behavior, and growth.
 
-## 📍 Currently
+## Currently...
 
 - 🎓 Graduating **December 2026** from **SDSU**
 - 🎨 Head of Mobile UI Design at PXI Labs
