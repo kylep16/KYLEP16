@@ -41,5 +41,3 @@ Building my own brand taught me how to think about products from both the **user
 - 🎨 Head of Mobile UI Design at PXI Labs
 - 💻 Designing and building startup products from Figma to production
 - 🔎 Interested in **Product Design, UI/UX, Frontend Development, and Design Engineering**
-
-### I build at the intersection of design and development.
