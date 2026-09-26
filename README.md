@@ -37,7 +37,7 @@ Building my own brand taught me how to think about products from both the **user
 
 ## Currently...
 
-- 🎓 Graduating **December 2026** from **SDSU**
-- 🎨 Head of Mobile UI Design at PXI Labs
-- 💻 Designing and building startup products from Figma to production
-- 🔎 Interested in **Product Design, UI/UX, Frontend Development, and Design Engineering**
+- Graduating **December 2026** from **SDSU**
+- Head of Mobile UI Design at PXI Labs
+- Designing and building startup products from Figma to production
+- Interested in **Product Design, UI/UX, Frontend Development, and Design Engineering**
